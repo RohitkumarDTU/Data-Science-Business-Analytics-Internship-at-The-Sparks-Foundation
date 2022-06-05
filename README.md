@@ -1,2 +1,6 @@
-# Data-Science-Business-Analytics-Internship-at-The-Sparks-Foundation
-Task_3_Data_Science_&amp;_Business_Analytics_Internship_at_The_Sparks_Foundation.ipynb
+# Exploratory Data Analysis - Retail
+Performed 'Exploratory Data Analysis' on dataset of 'SampleSuperstore' 
+As a business manager, 
+* try to find out the weak areas where i have worked to make more profits
+* what all the business problems you can drive by exploring the data
+* using python programming languag
